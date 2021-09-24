@@ -6,7 +6,7 @@ Kaggle Python 3.6 NLTK
 • If you want to view the deployed model, click on the following link:
 Deployed at: https://hamspamdetector20x.herokuapp.com/
 
-• If you are searching for Code, Algorithms used and Accuracy of the model.. you can find it in my github:chinmay525.
+• If you are searching for Code, Algorithms used and Accuracy of the model.. you can find it in my github:Saswat956.
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
