@@ -19,4 +19,5 @@ GIF
 • Sorry for the inconvenience.
 
 Heroku-Error
-https://github.com/chinmaypatra525/Spam_sms_Detector-Deployement/blob/main/readme_resources/application-error-heroku.png
+
+![application-error-heroku](https://user-images.githubusercontent.com/89455544/134637170-0fdc6230-213f-4d0d-a334-0edf93453439.png)
